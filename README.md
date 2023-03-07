@@ -48,3 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuoc450&layout=compact" />
