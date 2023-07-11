@@ -51,6 +51,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="left">
+<div>
  <img align="left" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuoc450&layout=compact" />
+</div>
+
+<div>
+ <img align="right" height="238" src="./coding.gif"/>
 </div>
