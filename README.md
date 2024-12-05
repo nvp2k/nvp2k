@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phước</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 📄 My experiences **2 years**
+- 📄 I'm frontend developer with **3 years** of experience
 
 - 👨‍💻 All of my projects are available at **...**
 
